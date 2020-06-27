@@ -5,7 +5,7 @@ from email.utils import formataddr
 from email.mime.multipart import MIMEMultipart
 
 my_sender='874115723@qq.com'
-my_pass ='qwptgiundcocbcjj'
+my_pass ='xxxxxxx'
 my_user='2017301500189@whu.edu.cn'
 
 def mail(path):
